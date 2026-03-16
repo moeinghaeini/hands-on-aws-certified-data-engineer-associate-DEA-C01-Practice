@@ -9,7 +9,7 @@ This github contains the code for the [youtube video](https://youtu.be/6G0bLDIcO
 
 [AWS Data Engineer - Associate DEA-C01 Revision Guide](https://buymeacoffee.com/johnnychivers/e/296836)
 
-[Udemy Pratice Exams](https://www.udemy.com/course/practice-exams-aws-certified-data-engineer-associate-johnny-chivers/?referralCode=B90E92C8A12AFA2E45C7)
+[Knowza.ai Pratice Exams](https://www.knowza.ai)
 
 # Setup
 
